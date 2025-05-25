@@ -19,7 +19,7 @@ Query Rate	Number of physician queries sent due to unclear or missing documentat
 Cost per Chart	Average cost of coding each chart (especially for outsourced teams).
 Coder Utilization Rate	Percentage of coder time spent on productive coding activities.
 
-🔁 **Sample KPI Targets (General Benchmarks)**
+**Sample KPI Targets (General Benchmarks)**
 Coding Accuracy: ≥ 95%
 Inpatient Productivity: ~2–3 charts/hour
 Outpatient Productivity: ~20–25 charts/hour
